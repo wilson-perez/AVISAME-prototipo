@@ -1,22 +1,36 @@
-# 🚨 AVÍSAME — Boyacá (Tramo Aquitania – Sogamoso)
+# 🚨 AVÍSAME — PWA Boyacá Crucero
 
-Aplicación web progresiva (PWA) desarrollada para mostrar el tramo **Aquitania – Sogamoso**, con sus **curvas, puntos turísticos, peajes y alertas viales** en el entorno natural de la **Laguna de Tota** (Boyacá, Colombia).
+*AVÍSAME* es una aplicación progresiva (PWA) diseñada para turistas, conductores y residentes del *departamento de Boyacá (Colombia)*.  
+Permite visualizar alertas viales, puntos de interés, y rutas seguras, incluso *sin conexión a Internet*.
 
-La app utiliza **OpenStreetMap y Leaflet** para renderizar el mapa y permite funcionar **sin conexión** después de la primera carga, además de ser **instalable** en dispositivos móviles y computadores.
+---
 
-## Características principales
-- Mapa interactivo de OpenStreetMap centrado en la Laguna de Tota.
-- Ruta real trazada entre Aquitania y Sogamoso, con sus curvas visibles.
-- Íconos en el mapa: Curva peligrosa, Peaje, Turismo.
-- Funciona como PWA sin conexión (offline).
-- Botón flotante de instalación para agregarla como app.
-- Compatible con Live Five Server y GitHub Pages.
+## 🌍 Características principales
 
-## Colaboradores
-- Alexandra Del Pilar Nova Niampira
-- Jaime Fernando Macana Acevedo
-- Nicolas Camilo Mendivelso Acosta
-- Wilson Hernán Pérez Pedraza
-- Jonathan Camilo Soto Rodríguez
+✅ Funciona sin conexión (modo offline)  
+✅ Compatible con cualquier celular Android o iPhone  
+✅ Mapa interactivo con iconos de alertas y turismo  
+✅ Idiomas: Español 🇪🇸 e Inglés 🇬🇧  
+✅ Se puede instalar como app desde el navegador
 
-© 2025 — Proyecto AVÍSAME Boyacá
+---
+
+## 🗺️ Captura del prototipo
+
+![AVÍSAME PWA](https://github.com/wilson-perez/AVISAME-prototipo/blob/main/icons/avisame-logo.png?raw=true)
+
+---
+
+## 📥 Descargar el prototipo
+
+[![Descargar ZIP](https://img.shields.io/badge/Descargar-ZIP-blue?style=for-the-badge)](https://github.com/wilson-perez/AVISAME-prototipo/raw/main/AVISAME-PWA.zip)
+
+> Haz clic en el botón para descargar todo el prototipo listo para usar.
+
+---
+
+## 🚀 Cómo ejecutar el proyecto localmente
+
+```bash
+git clone https://github.com/wilson-perez/AVISAME-prototipo.git
+cd AVISAME-prototipo

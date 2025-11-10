@@ -34,3 +34,12 @@ Permite visualizar alertas viales, puntos de interés, y rutas seguras, incluso 
 ```bash
 git clone https://github.com/wilson-perez/AVISAME-prototipo.git
 cd AVISAME-prototipo
+---
+
+## 🚀 Probar la aplicación
+
+[![Abrir AVÍSAME APP](https://img.shields.io/badge/🌐%20Abrir%20AVÍSAME%20APP-blue?style=for-the-badge)](https://wilson-perez.github.io/AVISAME-prototipo/)
+
+> 📱 Puedes abrirla desde cualquier navegador y **agregarla a tu pantalla de inicio** como una app PWA (funciona sin conexión).
+
+---
